@@ -74,6 +74,7 @@ header .logo{
     bottom: 50px;
     display: flex;
     gap: 30px;
+    cursor: pointer;
 }
 
 .icones i{
@@ -82,6 +83,7 @@ header .logo{
     padding: 10px;
     color: #fff;
     transition: 0.3s ease-in-out;
+    width: 40px;
 }
 
 .icones i:hover{
